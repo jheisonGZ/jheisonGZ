@@ -6,6 +6,8 @@
 
 </h1>
 
+<!--para tener iconos gif "https://iconos8.es/icons/set/robot--animated" -->
+
 <h3 align="center">desarrollador de software </h3>
 
 <br/>
