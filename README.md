@@ -11,11 +11,14 @@
 
 <div align="center">
  
- 🔭 Actualmente estoy estudiando en **UNIVERSIDAD DEL VALLE**
- 
- 🌱 Actualmente estoy aprendiendo **React,Angular,AWS,Docker,Firebase**
-
-⚡ Dato curioso **Entre mas negra la noche mas brillan las estrellas**
+<div align="center">
+    <img src="https://img.icons8.com/fluent/48/000000/student-center.png" width="30" height="30"/>
+    <span>Actualmente estudio en <b>Universidad del Valle</b></span><br/>
+    <img src="https://img.icons8.com/color/48/000000/brain.png" width="30" height="30"/>
+    <span>Actualmente estoy aprendiendo <b>React, Angular, AWS, Docker, Firebase</b></span><br/>
+    <img src="https://img.icons8.com/dusk/64/000000/star.png" width="30" height="30"/>
+    <span>Dato curioso: <i>"Entre más negra la noche, más brillan las estrellas"</i></span>
+</div>
 
 </div>
  
@@ -44,7 +47,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 Mis Contribuciones 🐍</h2>
+  <h2>🚀 Mis Contribuciones 🚀</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
@@ -53,7 +56,7 @@
 
 <hr/>
 
-<h2 align="center">⚡Estadísticas⚡</h2>
+<h2 align="center">📊 Estadísticas 📊</h2>
 <br>
 <div align=center>
 
