@@ -1,8 +1,7 @@
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+Soy+Jheison+Gomez!;&color=FF5733" />
-
+    <img src="https://textglow.net/generator?type=gif&text=%F0%9F%91%8B&size=100&duration=2000&color=%23FF5733&glow=blue" />
 </h1>
 
 <h3 align="center">desarrollador de software </h3>
@@ -11,9 +10,9 @@
 
 <div align="center">
     <img src="https://img.icons8.com/fluent/48/000000/student-center.png" width="30" height="30"/>
-    <span>Actualmente estudio en <b>Universidad del Valle</b></span><br/>
+    <span>Actualmente estudio  <b>Universidad del Valle</b></span><br/>
     <img src="https://img.icons8.com/color/48/000000/brain.png" width="30" height="30"/>
-    <span>Actualmente estoy aprendiendo <b>React, Angular, AWS, Docker, Firebase</b></span><br/>
+    <span>Estoy aprendiendo <b>React, Angular, AWS, Docker, Firebase</b></span><br/>
     <img src="https://img.icons8.com/dusk/64/000000/star.png" width="30" height="30"/>
     <span>Dato curioso: <i>"Entre más negra la noche, más brillan las estrellas"</i></span>
 </div>
