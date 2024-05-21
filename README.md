@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola,+soy+Jheison+Gomez!;" />
+<div style="background-image: linear-gradient(to right, #ff5733, #00bfff);">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&lines=¡Hola,+soy+Jheison+Gomez!;&color=white" />
+</div>
 </h1>
 
 <h3 align="center">Un apasionado desarrollador de software </h3>
