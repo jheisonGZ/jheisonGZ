@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-<img src="https://img.icons8.com/?size=100&id=nqg2tDAxO1LG&format=png&color=000000"/>
+<img src="https://img.icons8.com/?size=100&id=ptsYPyOSRBMu&format=gif&color=000000"/>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👨‍💻;+Soy+Jheison+Gomez!;&color=FF5733" />
 
 </h1>
