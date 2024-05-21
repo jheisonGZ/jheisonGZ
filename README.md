@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-<img src="https://www.flaticon.es/icono-animado-gratis/bot-conversacional_11260829?term=robot&page=1&position=8&origin=search&related_id=11260829"/>
+<img src="https://img.icons8.com/?size=100&id=nqg2tDAxO1LG&format=png&color=000000"/>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👨‍💻;+Soy+Jheison+Gomez!;&color=FF5733" />
 
 </h1>
@@ -35,7 +35,7 @@
 
 <hr/>
  
- <! -- Pagina para generar los iconos "https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" -->
+ <!--Pagina para generar los iconos "https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list"-->
 
 <h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas ⚒️</h2>
 <br/>
@@ -62,7 +62,7 @@
 <div align=center>
 
 
-<! -- Pagina para generar las estadisticas "https://streak-stats.demolab.com/demo/" -->
+<!--Pagina para generar las estadisticas "https://streak-stats.demolab.com/demo/"-->
 
 <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jheisonGZ&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
