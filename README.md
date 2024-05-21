@@ -1,8 +1,8 @@
 
 
 <h1 align="center">
-<img src="https://img.icons8.com/?size=100&id=1RueIplXPGd2&format=png&color=000000"/>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+Soy+Jheison+Gomez!;&color=FF5733" />
+<img src="https://www.flaticon.es/icono-animado-gratis/bot-conversacional_11260829?term=robot&page=1&position=8&origin=search&related_id=11260829"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👨‍💻;+Soy+Jheison+Gomez!;&color=FF5733" />
 
 </h1>
 
@@ -35,6 +35,8 @@
 
 <hr/>
  
+ <! -- Pagina para generar los iconos "https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list" -->
+
 <h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas ⚒️</h2>
 <br/>
 <div align="center">
@@ -59,13 +61,14 @@
 <br>
 <div align=center>
 
-<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jheisonGZ&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
+<! -- Pagina para generar las estadisticas "https://streak-stats.demolab.com/demo/" -->
+
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jheisonGZ&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=jheisonGZ&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-
 
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jheisonGZ&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
