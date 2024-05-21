@@ -10,8 +10,6 @@
 <br/>
 
 <div align="center">
- 
-<div align="center">
     <img src="https://img.icons8.com/fluent/48/000000/student-center.png" width="30" height="30"/>
     <span>Actualmente estudio en <b>Universidad del Valle</b></span><br/>
     <img src="https://img.icons8.com/color/48/000000/brain.png" width="30" height="30"/>
@@ -20,7 +18,7 @@
     <span>Dato curioso: <i>"Entre más negra la noche, más brillan las estrellas"</i></span>
 </div>
 
-</div>
+<br/> 
  
 <div align="center"> 
   <a href="jheison.gomez@correounivalle.edu.co">
