@@ -1,7 +1,9 @@
 
 
 <h1 align="center">
-    <img src="https://textglow.net/generator?type=gif&text=%F0%9F%91%8B&size=100&duration=2000&color=%23FF5733&glow=blue" />
+<img src="https://img.icons8.com/?size=100&id=1RueIplXPGd2&format=png&color=000000"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+Soy+Jheison+Gomez!;&color=FF5733" />
+
 </h1>
 
 <h3 align="center">desarrollador de software </h3>
@@ -37,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r,arduino,androidstudio" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,blender,css,mysql,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,blender,css,c,java,mysql" /><br>
 </div>
 
 <br/>
