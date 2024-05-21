@@ -1,18 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-<div style="background-image: linear-gradient(to right, #ff5733, #00bfff);">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&lines=¡Hola,+soy+Jheison+Gomez!;&color=white" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+Soy+Jheison+Gomez!;&color=FF5733" />
+
 </h1>
 
-<h3 align="center">Un apasionado desarrollador de software </h3>
+<h3 align="center">desarrollador de software </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Actualmente estoy estudiando en **UNIVERCIDAD DEL VALLE**
+ 🔭 Actualmente estoy estudiando en **UNIVERSIDAD DEL VALLE**
  
  🌱 Actualmente estoy aprendiendo **React,Angular,AWS,Docker,Firebase**
 
@@ -21,13 +20,13 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="jheison.gomez@correounivalle.edu.co">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/jheison-gomez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://jheisongz.github.io/Portafolio.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
