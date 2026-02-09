@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jheisonGZ/jheisonGZ/main/banner.png" alt="banner jheison" width="100%"/>
+<img src="https://raw.githubusercontent.com/jheisonGZ/jheisonGZ/master/jheisonGZ/banner.png" width="100%" />
 </p>
 
 <br/>
