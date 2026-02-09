@@ -4,7 +4,9 @@
 </h1>
 
 <!-- Banner -->
-<img src="https://github.com/jheisonGZ/jheisonGZ/blob/main/banner.png">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jheisonGZ/jheisonGZ/main/banner.png" alt="banner jheison" width="100%"/>
+</p>
 
 <br/>
 
@@ -13,16 +15,18 @@
 <br/>
 
 <div align="center">
-    <img src="https://img.icons8.com/fluent/48/000000/student-center.png" width="30" height="30"/>
-    <span>Actualmente estudio en <b>Universidad del Valle</b></span><br/>
-    <img src="https://img.icons8.com/color/48/000000/brain.png" width="30" height="30"/>
-    <span>Estoy aprendiendo <b>React, Angular, AWS, Docker, Firebase</b></span><br/>
-    <img src="https://img.icons8.com/dusk/64/000000/star.png" width="30" height="30"/>
-    <span>Dato curioso: <i>"Entre más negra la noche, más brillan las estrellas"</i></span>
+  <img src="https://img.icons8.com/fluent/48/000000/student-center.png" width="30" height="30"/>
+  <span>Actualmente estudio en <b>Universidad del Valle</b></span><br/>
+
+  <img src="https://img.icons8.com/color/48/000000/brain.png" width="30" height="30"/>
+  <span>Estoy aprendiendo <b>React, Angular, AWS, Docker, Firebase</b></span><br/>
+
+  <img src="https://img.icons8.com/dusk/64/000000/star.png" width="30" height="30"/>
+  <span>Dato curioso: <i>"Entre más negra la noche, más brillan las estrellas"</i></span>
 </div>
 
-<br/> 
- 
+<br/>
+
 <div align="center"> 
   <a href="mailto:jheison.gomez@correounivalle.edu.co">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -31,13 +35,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://jheisongz.github.io/Portafolio.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
 <hr/>
 
 <h2 align="center">⚒️ Lenguajes - Frameworks - Herramientas ⚒️</h2>
+
 <br/>
 
 <div align="center">
@@ -51,15 +56,16 @@
 
 <div align="center">
   <h2>🚀 Mis Contribuciones 🚀</h2>
-  <br>
+  <br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
 </div>
 
+<br/>
 <hr/>
 
 <h2 align="center">📊 Estadísticas 📊</h2>
-<br>
+
+<br/>
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jheisonGZ&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -68,14 +74,11 @@
   
   <br/>
 
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jheisonGZ&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jheisonGZ&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
-
-<hr/>
-
 <br/>
+<hr/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jheisonGZ&color=00ff99" />
