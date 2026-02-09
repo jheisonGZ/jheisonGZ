@@ -4,7 +4,7 @@
 </h1>
 
 <!-- Banner -->
-<img src="https://github.com/jheisonGZ/jheisonGZ/blob/main/banner.png" alt="banner jheison" width="100%">
+<img src="https://github.com/jheisonGZ/jheisonGZ/blob/main/banner.png">
 
 <br/>
 
