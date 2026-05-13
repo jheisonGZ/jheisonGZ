@@ -1,21 +1,16 @@
 <h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=1RueIplXPGd2&format=gif&color=000000"/>
   <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👨‍💻;+Soy+Jheison+Gomez!;&color=FF5733" />
 </h1>
 
-<!-- Banner -->
 <img src="https://github.com/jheisonGZ/jheisonGZ/blob/main/banner.png" alt="banner jheison" width="100%">
 
 <h3 align="center">Desarrollador de software 💻</h3>
 <br/>
 
 <div align="center">
-  <img src="https://img.icons8.com/fluent/48/student-center.png" width="30" height="30"/>
-  <span>Actualmente estudio en <b>Universidad del Valle</b></span><br/>
-  <img src="https://img.icons8.com/color/48/brain.png" width="30" height="30"/>
-  <span>Estoy aprendiendo <b>React, Angular, AWS, Docker, Firebase</b></span><br/>
-  <img src="https://img.icons8.com/dusk/64/star.png" width="30" height="30"/>
-  <span>Dato curioso: <i>"Entre más negra la noche, más brillan las estrellas"</i></span>
+  <span>🎓 Actualmente estudio en <b>Universidad del Valle</b></span><br/><br/>
+  <span>🧠 Estoy aprendiendo <b>React, Angular, AWS, Docker, Firebase</b></span><br/><br/>
+  <span>✨ Dato curioso: <i>"Entre más negra la noche, más brillan las estrellas"</i></span>
 </div>
 
 <br/>
@@ -62,7 +57,7 @@
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=jheisonGZ&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=jheisonGZ&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
+  <br/><br/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheisonGZ&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
@@ -73,3 +68,37 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jheisonGZ&color=00ff99" />
 </div>
+
+<!--
+  ====================================================
+  GITHUB ACTION — Snake Animation
+  Crea el archivo: .github/workflows/snake.yml
+  ====================================================
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
