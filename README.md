@@ -1,62 +1,106 @@
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=1RueIplXPGd2&format=gif&color=000000"/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👨‍💻;+Soy+Jheison+Gomez!;&color=FF5733" />
-</h1>
-<!-- Banner -->
-<img src="https://github.com/jheisonGZ/jheisonGZ/blob/main/banner.png" alt="banner jheison" width="100%">
-<br/>
-<h3 align="center">Desarrollador de software 💻</h3>
-<br/>
-<div align="center">
-    <img src="https://img.icons8.com/fluent/48/000000/student-center.png" width="30" height="30"/>
-    <span>Actualmente estudio en <b>Universidad del Valle</b></span><br/>
-    <img src="https://img.icons8.com/color/48/000000/brain.png" width="30" height="30"/>
-    <span>Estoy aprendiendo <b>React, Angular, AWS, Docker, Firebase</b></span><br/>
-    <img src="https://img.icons8.com/dusk/64/000000/star.png" width="30" height="30"/>
-    <span>Dato curioso: <i>"Entre más negra la noche, más brillan las estrellas"</i></span>
-</div>
-<br/> 
+<!-- =========================
+        HEADER / HERO
+========================= -->
 
-<div align="center"> 
-  <a href="mailto:jheison.gomez@correounivalle.edu.co">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/jheison-gomez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://jheisongz.github.io/Portafolio.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</div>
-<hr/>
-<h2 align="center">⚒️ Lenguajes - Frameworks - Herramientas ⚒️</h2>
-<br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r,arduino,androidstudio" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,blender,c,java,mysql" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Jheison%20Gomez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20|%20Data%20Engineering%20|%20Business%20Intelligence&descAlignY=60"/>
+
 </div>
-<br/>
-<hr/>
-<div align="center">
-  <h2>🚀 Mis Contribuciones 🚀</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-<hr/>
-<h2 align="center">📊 Estadísticas 📊</h2>
+
+<h3 align="center">
+💻 Desarrollador de Software | Data Engineer | BI Developer
+</h3>
+
+<p align="center">
+Estudiante de Ingeniería de Sistemas en la Universidad del Valle <br>
+Apasionado por el desarrollo backend, ETL, análisis de datos y soluciones escalables.
+</p>
+
 <br>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jheisonGZ&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=jheisonGZ&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jheisonGZ&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br/><br/>
-<hr/>
-<br/>
+<!-- =========================
+        SOCIAL BADGES
+========================= -->
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jheisonGZ&color=00ff99" />
+
+<a href="mailto:jheison.gomez@correounivalle.edu.co">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/jheison-gomez" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://jheisongz.github.io/Portafolio.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
+
+---
+
+# ⚒️ Lenguajes - Frameworks - Herramientas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,js,ts,nodejs,python,java,c,mysql,postgresql,firebase,docker,git,github,vscode,figma,r,arduino,androidstudio,blender,aws" />
+
+</div>
+
+---
+
+# 📈 Estadísticas GitHub
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=jheisonGZ&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="390" src="https://streak-stats.demolab.com?user=jheisonGZ&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<br><br>
+
+<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheisonGZ&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🐍 Contribuciones
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+---
+
+# 🎯 Actualmente
+
+<div align="center">
+
+🔹 Aprendiendo React, Angular, AWS y Docker  
+🔹 Desarrollando proyectos ETL y Business Intelligence  
+🔹 Mejorando habilidades en Backend y Arquitectura de Software  
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Visitas al Perfil
+
+<img src="https://komarev.com/ghpvc/?username=jheisonGZ&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+<div align="center">
+
+### ⭐ “Entre más negra la noche, más brillan las estrellas.”
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
