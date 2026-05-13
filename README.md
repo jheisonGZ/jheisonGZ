@@ -6,6 +6,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Jheison%20Gomez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Data%20Engineering%20|%20Business%20Intelligence&descAlignY=60"/>
 
+<br>
+
+<img 
+  width="145px"
+  src="https://i.gifer.com/2ulp.gif"
+  style="margin-top:-8px;"
+/>
+
 </div>
 
 <h3 align="center">
