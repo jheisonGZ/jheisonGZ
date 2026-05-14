@@ -9,9 +9,14 @@
 <br>
 
 <img 
-  width="145px"
-  src="https://i.gifer.com/2ulp.gif"
-  style="margin-top:-8px;"
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtuMGhhY3ZvdDB6NXBpdDBoM2NobThheDJhbXM5ZzVkamhnYXlraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif"
+  width="280px"
+  height="180px"
+  style="
+    object-fit: cover;
+    margin-top:-15px;
+    border-radius:12px;
+  "
 />
 
 </div>
